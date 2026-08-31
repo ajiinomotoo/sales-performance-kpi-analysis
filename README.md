@@ -219,9 +219,8 @@ Area yang dapat ditindaklanjuti meliputi:
 Dashboard dikembangkan menggunakan **Power BI** untuk memberikan overview performa penjualan dan return.
 
 Dashboard terdiri dari dua halaman:
-<img width="1142" height="902" alt="sales-return-analysis" src="https://github.com/user-attachments/assets/904558de-2ce9-4567-8c27-49321b7a000b" />
 <img width="1147" height="876" alt="executive-sales-overview" src="https://github.com/user-attachments/assets/09a68bed-9522-48c2-9ad1-93d3ce5e1ca5" />
-
+<img width="1142" height="902" alt="sales-return-analysis" src="https://github.com/user-attachments/assets/904558de-2ce9-4567-8c27-49321b7a000b" />
 
 ### Executive Sales Overview
 
